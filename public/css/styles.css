@@ -58,3 +58,9 @@ a:hover {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
 }
+
+/* Footer */
+
+#footer {
+  opacity: 0.6;
+}
